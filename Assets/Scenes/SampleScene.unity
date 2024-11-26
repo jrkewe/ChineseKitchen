@@ -96,7 +96,8 @@ LightmapSettings:
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
-  m_LightingDataAsset: {fileID: 0}
+  m_LightingDataAsset: {fileID: 112000000, guid: ea33150101fcd594b950b96c5a0ea0b6,
+    type: 2}
   m_LightingSettings: {fileID: 4890085278179872738, guid: 0f9bc74f6f4585846a9f8d78711f5ef1,
     type: 2}
 --- !u!196 &4
@@ -3148,11 +3149,11 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 2
+  m_Lightmapping: 1
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
-  m_ColorTemperature: 5000
+  m_ColorTemperature: 6841
   m_UseColorTemperature: 1
   m_BoundingSphereOverride: {x: 1.02e-43, y: 1e-45, z: 4.3e-42, w: 0}
   m_UseBoundingSphereOverride: 0
@@ -5236,7 +5237,7 @@ PrefabInstance:
     - target: {fileID: 5535285687165071651, guid: 5b1ac1657d93dd94c80e8eb8ec51b3ee,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 2.339
+      value: 2.199
       objectReference: {fileID: 0}
     - target: {fileID: 5535285687165071651, guid: 5b1ac1657d93dd94c80e8eb8ec51b3ee,
         type: 3}
@@ -6970,17 +6971,17 @@ PrefabInstance:
     - target: {fileID: 5397440168262614371, guid: 05cb239b4429ba44ca24c4c0afe06d50,
         type: 3}
       propertyPath: m_BoundingSphereOverride.w
-      value: 1e-45
+      value: 1.18e-43
       objectReference: {fileID: 0}
     - target: {fileID: 5397440168262614371, guid: 05cb239b4429ba44ca24c4c0afe06d50,
         type: 3}
       propertyPath: m_BoundingSphereOverride.x
-      value: 1e-45
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5397440168262614371, guid: 05cb239b4429ba44ca24c4c0afe06d50,
         type: 3}
       propertyPath: m_BoundingSphereOverride.y
-      value: 0
+      value: 1.18e-43
       objectReference: {fileID: 0}
     - target: {fileID: 5397440168262614371, guid: 05cb239b4429ba44ca24c4c0afe06d50,
         type: 3}
